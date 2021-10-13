@@ -1,0 +1,8 @@
+PYAUDIO
+ pywhatkit
+ wikipedia
+ datetime
+ pyttsx3
+ speech_recognition
+
+ just use pip install 'name of module give above'
